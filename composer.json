@@ -1,0 +1,21 @@
+{
+    "name": "andrew21-mch/openfolio",
+    "description": "Open Portfolio Website",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "squizlabs/php_codesniffer": "^3.10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andrew21Mch\\Openfolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Snr Andy",
+            "email": "nfonandrew73@gmail.com"
+        }
+    ]
+}
